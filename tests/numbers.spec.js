@@ -18,8 +18,24 @@ describe('2 - Implemente os casos de teste para a função `numbers`', () => {
   it('Verifica se a função `numbers`retorna `true` quando o array contém apenas numeros e falso caso contrário', () => {
     fail('Teste vazio!');
     // Escreva um teste em que a função recebe [1, 2, 3, 4, 5] e retorna true
+    describe('Requisito 1', () => {
+      const teste = [1, 2, 3, 4, 5];
+        expect(true).toEqual(numbers([1, 2, 3, 4, 5]));
+      });
+    });
     // Escreva um teste em que a função recebe [1, 2, '3', 4, 5] e retorna false
+    describe('Requisito 2', () => {
+      const teste = [1, 2, "3", 4, 5];
+        expect(false).toEqual(numbers([1, 2, "3", 4, 5]));
+      });
+    });
     // Escreva um teste em que a função recebe [1, 'a', 3] e retorna false
+    describe('Requisito 3', () => {
+      const teste = [1, "a", 3];
+        expect(false).toEqual(numbers([1, "a", 3]));
+      });
     // Escreva um teste em que a função recebe [' '] e retorna false
-  });
-});
+    describe('Requisito 4', () => {
+      const teste = [" "];
+        expect(false).toEqual(numbers([" "]));
+      });
