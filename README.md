@@ -1,13 +1,27 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# JS Unit Tests
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Sexto projeto desenvolvido no módulo de Fundamentos do Curso de Desenvolvimento Web da Trybe.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+![preview](.github/preview.gif)
+
+O projeto consistia em escrever testes unitários para funções utilizando Jest para verificar o correto funcionamento dessas funções, utilizando uma abordagem de desenvolvimento orientado a testes.
+
+## 🚀 Tecnologia
+
+- ⚡ JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+
+- ⚡ Jest é um framework de teste unitário de código aberto em JavaScript criado pelo Facebook a partir do framework Jasmine.
+
+## ✋🏻 Pré-requisitos
+
+- [git](https://git-scm.com/downloads): Ferramenta para gerenciar o código-fonte
+
+- [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
+
+## :hammer_and_wrench: Antes de iniciar o projeto.
+
+No diretório do projeto, instale as dependências e inicialize o projeto:
+
+### `npm install`
+
+Instala as dependências.
