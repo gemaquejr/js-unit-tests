@@ -25,3 +25,7 @@ No diretório do projeto, instale as dependências e inicialize o projeto:
 ### `npm install`
 
 Instala as dependências.
+
+### `npm test`
+
+Executa todos os testes presentes na aplicação.
