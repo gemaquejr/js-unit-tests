@@ -4,7 +4,7 @@ Sexto projeto desenvolvido no módulo de Fundamentos do Curso de Desenvolvimento
 
 ![preview](.github/preview.gif)
 
-O projeto consistia em escrever testes unitários para funções utilizando Jest para verificar o correto funcionamento dessas funções, utilizando uma abordagem de desenvolvimento orientado a testes.
+O projeto consistia em escrever testes unitários para funções, utilizando Jest para verificar o correto funcionamento dessas funções, além de uma abordagem de desenvolvimento orientado a testes.
 
 ## 🚀 Tecnologia
 
